@@ -7,8 +7,8 @@ description: I used to manage my software company for 12 years (vypress.com), th
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
-picture: http://0.gravatar.com/avatar/ee643f4474aab11b5619683daf9dbdc2
+external-image: false
+picture: assets/images/profile.jpg
 
 url: http://vtkn.io
 # your url: http://USERNAME.github.io
@@ -34,7 +34,7 @@ twitter: tinovyatkin
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: tinovyatkin
 #youtube: myyoutube
 #spotify: myspotify
 github: tinovyatkin
@@ -46,8 +46,8 @@ authors:
     tinovyatkin:
         name: Tino Vyatkin
         bio: Will do anything to find new sense
-        external-image: true
-        picture: http://0.gravatar.com/avatar/ee643f4474aab11b5619683daf9dbdc2
+        external-image: false
+        picture: assets/images/profile.jpg
         twitter: tinovyatkin
 
 # do you want a larger site? change the option below
